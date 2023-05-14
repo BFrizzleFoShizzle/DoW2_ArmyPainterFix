@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoW2_ArmyPainterFix", "DoW2_ArmyPainterFix.vcxproj", "{6BBAB57C-5BFC-497C-A548-C425DD002ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBAB57C-5BFC-497C-A548-C425DD002ACA}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BBAB57C-5BFC-497C-A548-C425DD002ACA}.Debug|x86.Build.0 = Debug|Win32
+		{6BBAB57C-5BFC-497C-A548-C425DD002ACA}.Release|x86.ActiveCfg = Release|Win32
+		{6BBAB57C-5BFC-497C-A548-C425DD002ACA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B472ABD8-925B-467F-A471-5A250968AF4B}
+	EndGlobalSection
+EndGlobal
